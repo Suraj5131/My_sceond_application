@@ -1,11 +1,11 @@
 {
-    "name": "flutter_bus_ui",
-    "short_name": "flutter_bus_ui",
+    "name": "bus_services",
+    "short_name": "bus_services",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Bus services (Dextro)",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

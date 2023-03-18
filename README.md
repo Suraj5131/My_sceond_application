@@ -1,6 +1,6 @@
-# flutter_bus_ui
+# bus_services
 
-A new Flutter project.
+Bus services (Dextro)
 
 ## Getting Started
 
